@@ -11,6 +11,10 @@ color:
     - '#EFEFEF'
     - '#FF530D'
 layout_spectrum: 0.4492546145338565
+author:
+  name: Fede Alvarez Velasco
+  email: ''
+  url: ''
 name: A new reality
 title: PUSHING THE BOUNDARIES
 description: A 360° view of our likely future
