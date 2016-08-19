@@ -1,4 +1,3 @@
-layout_spectrum: 0.9114379370585084
 typography_spectrum: 0.9855335096362978
 color:
   brandStrength: 0.16568227973766625
@@ -6,9 +5,11 @@ color:
   saturation: 0.8708757816348225
   rhythmicContrast: 0.8257055436260998
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.9114379370585084
 name: A new reality
+title: PUSHING THE BOUNDARIES
