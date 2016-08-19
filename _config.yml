@@ -1,4 +1,3 @@
-layout_spectrum: 0.4492546145338565
 typography_spectrum: 0.35203758953139186
 color:
   brandStrength: 0.973644606070593
@@ -11,6 +10,7 @@ color:
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
+layout_spectrum: 0.4492546145338565
 name: A new reality
 title: PUSHING THE BOUNDARIES
-description: The positive and negative sides of our likely future
+description: A 360° view of our likely future
