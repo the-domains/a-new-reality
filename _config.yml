@@ -1,16 +1,16 @@
-typography_spectrum: 0.40279911388643086
+layout_spectrum: 0.4492546145338565
+typography_spectrum: 0.35203758953139186
 color:
-  brandStrength: 0.2671043165028095
-  lightness: 0.7406931524164975
-  saturation: 0.7527410264592618
-  rhythmicContrast: 0.9495391163509339
+  brandStrength: 0.973644606070593
+  lightness: 0.8314912996720523
+  saturation: 0.8871242385357618
+  rhythmicContrast: 0.9208240723237395
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-layout_spectrum: 0.11238502780906856
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: A new reality
 title: PUSHING THE BOUNDARIES
 description: The positive and negative sides of our likely future
