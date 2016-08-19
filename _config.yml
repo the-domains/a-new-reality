@@ -1,20 +1,14 @@
-typography_spectrum: 0.35203758953139186
+layout_spectrum: 0.9114379370585084
+typography_spectrum: 0.9855335096362978
 color:
-  brandStrength: 0.973644606070593
-  lightness: 0.8314912996720523
-  saturation: 0.8871242385357618
-  rhythmicContrast: 0.9208240723237395
+  brandStrength: 0.16568227973766625
+  lightness: 0.4803084060549736
+  saturation: 0.8708757816348225
+  rhythmicContrast: 0.8257055436260998
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
-layout_spectrum: 0.4492546145338565
-author:
-  name: Fede Alvarez Velasco
-  email: ''
-  url: ''
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: A new reality
-title: PUSHING THE BOUNDARIES
-description: A 360° view of our likely future
